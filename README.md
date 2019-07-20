@@ -29,4 +29,17 @@ The output layers uses sigmoid function as activation fucntion.
  <img src="PUBG Prediction system/ScreenShot/2.jpg">
  <img src="PUBG Prediction system/ScreenShot/3.jpg">
  
+ ## DataSet
+ Data set is available at:
+ <a href="https://www.kaggle.com/c/pubg-finish-placement-prediction">DataSet</a>
+ 
+ ## PUBG API 
+ Pubg API is used to gather information about a specific user 
+ <a href="https://documentation.pubg.com/en/introduction.html">PUBG API LINK</a>
+ ## Data Piplining
+ <img src="PUBG Prediction system/ScreenShot/pipeline.png">
+ 
+PUBG:
+COPYRIGHT ©2019 PUBG CORPORATION. ALL RIGHTS RESERVED.
+PLAYERUNKNOWN’S BATTLEGROUNDS and PUBG are registered trademarks, trademarks or service marks of PUBG CORPORATION.
  
