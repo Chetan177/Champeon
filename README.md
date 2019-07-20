@@ -19,3 +19,14 @@ The output layers uses sigmoid function as activation fucntion.
 <a href="https://ibb.co/k45KkjW"><img src="https://i.ibb.co/7njv8P6/Pubg-DNN.png" alt="Pubg-DNN" border="0"></a>
 
 
+<img src = "PUBG Prediction system/ScreenShot/model.jpg" align = "center" height="400" width="350">
+
+
+ ## Preview
+ 
+ <img src="PUBG Prediction system/ScreenShot/ezgif.com-video-to-gif.gif">
+ <img src="PUBG Prediction system/ScreenShot/1.jpg">
+ <img src="PUBG Prediction system/ScreenShot/2.jpg">
+ <img src="PUBG Prediction system/ScreenShot/3.jpg">
+ 
+ 
