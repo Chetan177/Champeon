@@ -13,6 +13,7 @@ Champeon is based on a Dense Neural Network model which has accuracy rate of mor
 
 Input layer and all the 3 hidden layers uses the relu activation function
 The output layers uses sigmoid function as activation fucntion.
+The model is trained for 100 epochs with average time per epochs 20sec(GPU Accelerated)
 
 
 
