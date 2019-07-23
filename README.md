@@ -3,6 +3,10 @@ PUBG Win prediction system
 ## About
 Champeon is based on a Dense Neural Network model which has accuracy rate of more than 94%. It uses Keras model running on a Tensorflow backend which is GPU accelerated. The DataSet which is used to develop the DNN model is consist of more than 4 million examples.
 
+
+## Check Out here 
+<a href="https://champeon.herokuapp.com/">Champeon </a>
+
 ## Tensorflow model used:
 ### The DNN is made up of 5 layers with 4 in between batch normalization layer 
 1. Input layer with 32 units
