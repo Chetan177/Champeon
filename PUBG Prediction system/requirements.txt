@@ -1,0 +1,16 @@
+Flask==1.0.2
+furl==2.0.0
+h5py==2.9.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+matplotlib==3.0.3
+numexpr==2.6.9
+numpy==1.16.2
+numpydoc==0.8.0
+pandas==0.24.2
+tensorboard==1.13.1
+tensorflow==2.0.0b1
+tensorflow-estimator==1.13.0
+tf-estimator-nightly==1.14.0.dev2019060501
+gunicorn==19.9.0
+pubg-python
