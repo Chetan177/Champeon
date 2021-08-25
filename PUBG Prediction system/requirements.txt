@@ -9,7 +9,7 @@ numpy==1.16.2
 numpydoc==0.8.0
 pandas==0.24.2
 tensorboard==1.13.1
-tensorflow==2.0.0b1
+tensorflow==2.5.1
 tensorflow-estimator==1.13.0
 tf-estimator-nightly==1.14.0.dev2019060501
 gunicorn==19.9.0
